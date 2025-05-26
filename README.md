@@ -1,2 +1,2 @@
 # LSFormer
-LSFormer: A Lightweight Shadow Removal Network with DiNA Attention and Dual-Scale Gated enhance Feedforward Module.
+Efficient Shadow Removal using LSFormer with DiNA Attention and Dual-Scale Gated Feedforward Network.
